@@ -24,12 +24,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-
 ### 📌 Featured Projects
-- [**PeaceBot**](https://github.com/zainabfatima097/PeaceBot.git) – An AI Powered Chrome Extension to educate users on Global Conflicts  
-- [**Spotify CLone**](https://github.com/zainabfatima097/SpotifyClone.git) – Music streaming web app with an AI Mood Generator
-- [**Ctrl+Shift+Fix**](https://github.com/zainabfatima097/zee.git) – An AI Powered VS Code Extension - Productivity tool for quick fixes & code snippets
+
+[![PeaceBot](https://github-readme-stats.vercel.app/api/pin/?username=zainabfatima097&repo=PeaceBot&theme=radical)](https://github.com/zainabfatima097/PeaceBot.git)
+
+[![Spotify Clone](https://github-readme-stats.vercel.app/api/pin/?username=zainabfatima097&repo=SpotifyClone&theme=radical)](https://github.com/zainabfatima097/SpotifyClone.git)
+
+[![Ctrl+Shift+Fix](https://github-readme-stats.vercel.app/api/pin/?username=zainabfatima097&repo=zee&theme=radical)](https://github.com/zainabfatima097/zee.git)
 
 ---
 
@@ -55,6 +56,7 @@
 
 ---
 *“Code with purpose, innovate with impact.”* ✨
+
 
 
 
