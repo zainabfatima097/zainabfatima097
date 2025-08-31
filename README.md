@@ -27,9 +27,7 @@
 ### 📌 Featured Projects
 
 [![PeaceBot](https://github-readme-stats.vercel.app/api/pin/?username=zainabfatima097&repo=PeaceBot&theme=radical)](https://github.com/zainabfatima097/PeaceBot.git)
-
-[![Spotify Clone](https://github-readme-stats.vercel.app/api/pin/?username=zainabfatima097&repo=SpotifyClone&theme=radical)](https://github.com/zainabfatima097/SpotifyClone.git)
-
+[![Spotify Clone](https://github-readme-stats.vercel.app/api/pin/?username=zainabfatima097&repo=SpotifyClone&theme=radical)](https://github.com/zainabfatima097/spotify-clone.git)
 [![Ctrl+Shift+Fix](https://github-readme-stats.vercel.app/api/pin/?username=zainabfatima097&repo=zee&theme=radical)](https://github.com/zainabfatima097/zee.git)
 
 ---
@@ -56,6 +54,7 @@
 
 ---
 *“Code with purpose, innovate with impact.”* ✨
+
 
 
 
