@@ -50,5 +50,6 @@
 
 
 
-✨ *“Code with purpose, innovate with impact.”* ✨
+*“Code with purpose, innovate with impact.”* ✨
+
 
