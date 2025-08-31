@@ -1,5 +1,8 @@
+![trophy](https://github-profile-trophy.vercel.app/?username=zainabfatima097&theme=radical&no-frame=true&margin-w=5)
+
+---
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFDA&width=600&lines=Hi+there+👋,+I'm+Zainab+Fatima!;AI+Enthusiast+%7C+Hackathon+Explorer;Building+cool+things+with+code+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&width=600&lines=Hi+there+👋,+I'm+Zainab+Fatima!;AI+Enthusiast+%7C+Hackathon+Explorer;Building+cool+things+with+code+🚀)](https://git.io/typing-svg)
 
 ---
 
@@ -7,10 +10,10 @@
 - B.Tech CSE student, passionate about AI, innovation & problem-solving  
 - Hackathon enthusiast (Winner @ Terraview + more coming 🚀)  
 - Loves working on projects that create real-world impact  
-- Currently learning **Web Development & Open Source contributions**  
+- Currently learning **Web Development & Open Source contributions**
+⚡ Fun fact: I debug faster when I have coffee in hand 😆
 
 ---
-
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,11 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats
-![Zee's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainabfatima097&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainabfatima097&layout=compact&theme=radical)  
-
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainabfatima097&theme=radical)
 
 ### 🏆 Achievements
 -  **Winner – Data Analytics @ HackRev’25**  
@@ -48,8 +47,14 @@
 - **Leadership & Recognition**  
    Recognized for public speaking, team leadership & community contributions  
 
+---
 
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainabfatima23) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainabfatima.rafi@gmail.com)
 
+---
 *“Code with purpose, innovate with impact.”* ✨
+
 
 
