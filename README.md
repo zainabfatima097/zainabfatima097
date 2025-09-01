@@ -40,7 +40,7 @@
 - **Top 1% – Pixel Plus Hackathon**  
    🏅 Bagged **paid WFH opportunities** for outstanding performance
 - **Winner - Project Expo SWCET**  
-   🥈 Secured the Second Place at the internal project expo help at SWCET
+   🥈 Secured the Second Place at the internal project expo held at SWCET
 - **Hackathon Streak**  
    Actively participated in multiple national hackathons with innovative AI-driven solutions  
 - **Leadership & Recognition**  
@@ -54,6 +54,7 @@
 
 ---
 *“Code with purpose, innovate with impact.”* ✨
+
 
 
 
