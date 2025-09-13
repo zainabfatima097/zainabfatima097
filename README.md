@@ -11,7 +11,6 @@
 - Hackathon enthusiast (Winner @ Terraview + more coming 🚀)  
 - Loves working on projects that create real-world impact  
 - Currently learning **Web Development & Open Source contributions**
-⚡ Fun fact: I debug faster when I have coffee in hand 😆
 
 ---
 ### Tech Stack
@@ -54,6 +53,7 @@
 
 ---
 *“Code with purpose, innovate with impact.”* ✨
+
 
 
 
