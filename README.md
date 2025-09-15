@@ -1,6 +1,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=zainabfatima097&theme=radical&no-frame=true&margin-w=5)
 
 ---
+
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&width=600&lines=Hi+there+👋,+I'm+Zainab+Fatima!;AI+Enthusiast+%7C+Hackathon+Explorer;Building+cool+things+with+code+🚀)](https://git.io/typing-svg)
 
@@ -53,6 +54,7 @@
 
 ---
 *“Code with purpose, innovate with impact.”* ✨
+
 
 
 
