@@ -35,9 +35,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainabfatima097&theme=radical)
 
 ### 🏆 Achievements
--  **Winner – Data Analytics @ HackRev’25**  
+-  **Winner - Data Analytics @ HackRev’25**  
    🥇 Secured **₹13,000 cash prize** for presenting visuals and insights using Terraview  
-- **Top 1% – Pixel Plus Hackathon**  
+- **Top 1% - Pixel Plus Hackathon Finalist**  
    🏅 Bagged **paid WFH opportunities** for outstanding performance
 - **Winner - Project Expo SWCET**  
    🥈 Secured the Second Place at the internal project expo held at SWCET
@@ -54,6 +54,7 @@
 
 ---
 *“Code with purpose, innovate with impact.”* ✨
+
 
 
 
