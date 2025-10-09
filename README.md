@@ -32,8 +32,6 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainabfatima097&theme=radical)
-
 ### 🏆 Achievements
 -  **Winner - Data Analytics @ HackRev’25**  
    🥇 Secured **₹13,000 cash prize** for presenting visuals and insights using Terraview  
@@ -54,6 +52,7 @@
 
 ---
 *“Code with purpose, innovate with impact.”* ✨
+
 
 
 
