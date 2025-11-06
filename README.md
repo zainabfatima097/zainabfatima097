@@ -1,4 +1,8 @@
-![trophies](https://github-profile-trophy.vercel.app/?username=zainabfatima097&theme=radical&no-frame=true&margin-w=5&title=Stars,Followers,Commits,Repositories,Multilanguage)
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=zainabfatima097&theme=radical&no-frame=true&margin-w=5)
+
+![Multilanguage Trophy](https://github-profile-trophy.vercel.app/?username=zainabfatima097&theme=radical&no-frame=true&margin-w=5&title=Multilanguage)
+
+
 
 ---
 
@@ -52,6 +56,7 @@
 
 ---
 *“Code with purpose, innovate with impact.”* ✨
+
 
 
 
