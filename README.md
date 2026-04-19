@@ -96,10 +96,6 @@ status      : Actively building, learning & competing
 
 <br/>
 
-*"Code with purpose, innovate with impact."* ✨
-
-<br/>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=zainabfatima097&label=Profile+Views&color=FF69B4&style=flat)](https://github.com/zainabfatima097)
 
 <br/>
