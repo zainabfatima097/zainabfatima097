@@ -13,7 +13,7 @@
 
 ```yaml
 name        : Zainab Fatima
-education   : B.Tech CSE II year
+education   : B.Tech CSE III year
 passion     : AI · Web Development · Open Source · Programming & Problem Solving
 status      : Actively building, learning & competing 
 ```
